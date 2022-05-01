@@ -14,5 +14,8 @@ Individual models were created with random values for grid size and number of ag
 # Results: 
 I'm currently stuck on some errors in the evolving models segment, but wanted to upload what I had for the model right now and hopefully fix those issues later. However, initial results (without evolution) indicate that according to the rules I made, defection is always a favorable strategy. For example, I tested a randomly generated population of 100 model communities. Each one of those communities had a high ratio of defectors/cooperators and a community pool size of 0. 
 
-Visualization:
+#Visualization:
 Once the errors are fixed there will be an interactive visualization attached to each model
+
+#Extension:
+This project will eventually serve as initial supporting research for decision-making in a larger project called Halogen (whitepaper linked in this repository); however, the model will need to be much more refined and accurate for that to work. 
